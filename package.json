@@ -9,6 +9,7 @@
   "author": "JuanMa Garrido <JuanMa.Garrido@gmail.com> (http://apuntesjs.com)",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^3.10.0",
     "q": "^1.4.1",
     "q-io": "^1.13.1"
   }
